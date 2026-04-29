@@ -54,10 +54,14 @@ The system also integrates with external MIT-licensed tools such as JobSync and 
 
 ## Direction
 
-Looking for my next role in digital delivery, service improvement, product/service ownership, workflow design, digital transformation, or structured change.
+**Next:**
+Looking for my next role where digital delivery, service improvement, product/service ownership, workflow design, digital transformation, and structured change meet.
 
-Best fit: work where services, systems, people, and decisions need to fit together better — especially across business, operations, technical teams, leaders, and users.
+**Best fit:**
+Work where services, systems, people, and decisions need to fit together better — especially across business, operations, technical teams, leaders, and users.
 
+**What:**
 Relevant titles may include Product Owner, Service Owner, Change Manager, Digitalization Lead, Digital Project Manager, Senior Advisor, Platform Owner, Program Manager, or Domain Lead.
 
+**Where:**
 Based in Arendal, Norway, and open to relevant opportunities across Southern Norway, Oslo, and elsewhere in Norway. Location is flexible where the role is a strong fit.
