@@ -29,6 +29,9 @@ flowchart LR
     C --> F[Less cognitive noise]
     D --> F
     E --> F
+```
+
+JobPipe is a single-user OSS project in active hardening, not a launched SaaS product.
 
 JobPipe is a single-user OSS project in active hardening, not a launched SaaS product.
 
