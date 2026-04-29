@@ -33,8 +33,6 @@ flowchart LR
 
 JobPipe is a single-user OSS project in active hardening, not a launched SaaS product.
 
-JobPipe is a single-user OSS project in active hardening, not a launched SaaS product.
-
 ## Related workflow tooling
 
 JobPipe is the public data and decision layer in a small personal workflow system. Around it, I use **JobSane** for CrewAI-powered application workflow automation, and **JobVibe** for development support, GitHub workflow, and project management.
