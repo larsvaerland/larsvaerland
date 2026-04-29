@@ -58,7 +58,7 @@ The system also integrates with external MIT-licensed tools such as JobSync and 
 Looking for my next role where digital delivery, service improvement, product/service ownership, workflow design, digital transformation, and structured change meet.
 
 **Best fit:**
-Work where services, systems, people, and decisions need to fit together better. specially across business, operations, technical teams, leaders, and users.
+Work where services, systems, people, and decisions need to fit together better — especially across business, operations, technical teams, leadership, and users.
 
 **What:**
 Relevant titles may include Product Owner, Service Owner, Change Manager, Digitalization Lead, Digital Project Manager, Senior Advisor, Platform Owner, Program Manager, or Domain Lead.
